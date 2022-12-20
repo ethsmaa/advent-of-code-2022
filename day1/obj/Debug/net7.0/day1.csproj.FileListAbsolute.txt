@@ -1,0 +1,15 @@
+/Users/esmaoruc/Projects/day1/obj/Debug/net7.0/day1.csproj.AssemblyReference.cache
+/Users/esmaoruc/Projects/day1/obj/Debug/net7.0/day1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/esmaoruc/Projects/day1/obj/Debug/net7.0/day1.AssemblyInfoInputs.cache
+/Users/esmaoruc/Projects/day1/obj/Debug/net7.0/day1.AssemblyInfo.cs
+/Users/esmaoruc/Projects/day1/obj/Debug/net7.0/day1.csproj.CoreCompileInputs.cache
+/Users/esmaoruc/Projects/day1/bin/Debug/net7.0/day1
+/Users/esmaoruc/Projects/day1/bin/Debug/net7.0/day1.deps.json
+/Users/esmaoruc/Projects/day1/bin/Debug/net7.0/day1.runtimeconfig.json
+/Users/esmaoruc/Projects/day1/bin/Debug/net7.0/day1.dll
+/Users/esmaoruc/Projects/day1/bin/Debug/net7.0/day1.pdb
+/Users/esmaoruc/Projects/day1/obj/Debug/net7.0/day1.dll
+/Users/esmaoruc/Projects/day1/obj/Debug/net7.0/refint/day1.dll
+/Users/esmaoruc/Projects/day1/obj/Debug/net7.0/day1.pdb
+/Users/esmaoruc/Projects/day1/obj/Debug/net7.0/day1.genruntimeconfig.cache
+/Users/esmaoruc/Projects/day1/obj/Debug/net7.0/ref/day1.dll
