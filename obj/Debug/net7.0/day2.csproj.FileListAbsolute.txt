@@ -1,0 +1,15 @@
+/Users/esmaoruc/Projects/day2/bin/Debug/net7.0/day2
+/Users/esmaoruc/Projects/day2/bin/Debug/net7.0/day2.deps.json
+/Users/esmaoruc/Projects/day2/bin/Debug/net7.0/day2.runtimeconfig.json
+/Users/esmaoruc/Projects/day2/bin/Debug/net7.0/day2.dll
+/Users/esmaoruc/Projects/day2/bin/Debug/net7.0/day2.pdb
+/Users/esmaoruc/Projects/day2/obj/Debug/net7.0/day2.csproj.AssemblyReference.cache
+/Users/esmaoruc/Projects/day2/obj/Debug/net7.0/day2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/esmaoruc/Projects/day2/obj/Debug/net7.0/day2.AssemblyInfoInputs.cache
+/Users/esmaoruc/Projects/day2/obj/Debug/net7.0/day2.AssemblyInfo.cs
+/Users/esmaoruc/Projects/day2/obj/Debug/net7.0/day2.csproj.CoreCompileInputs.cache
+/Users/esmaoruc/Projects/day2/obj/Debug/net7.0/day2.dll
+/Users/esmaoruc/Projects/day2/obj/Debug/net7.0/refint/day2.dll
+/Users/esmaoruc/Projects/day2/obj/Debug/net7.0/day2.pdb
+/Users/esmaoruc/Projects/day2/obj/Debug/net7.0/day2.genruntimeconfig.cache
+/Users/esmaoruc/Projects/day2/obj/Debug/net7.0/ref/day2.dll
